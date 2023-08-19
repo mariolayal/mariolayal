@@ -4,11 +4,12 @@
 
 Sou bióloga, educadora popular e fluente em Libras.
 
-Professora de Ciências e Biologia do Ensino Fundamental 2 e Médio e coordenadora de Pré-vestibular Social. Iniciando minha jornada como aluna de Desenvolvimento de Software- Foco em Backend da Cubos Academy.
+Iniciando minha jornada como aluna de Desenvolvimento de Software- Foco em Backend da Cubos Academy.
 
 - 👩‍🏫 Atualmente trabalho como professora de Ciências e Biologia do ensino fundamental 2 e médio, além de coordenar o Pré-vestibular Social Dr. Luiz Gama, iniciativa do Coletivo Direito Popular, movimento social de Niterói.
 - 📖 Estou iniciando minha jornada como aluna de Desenvolvimento de Software- Foco em Backend da Cubos Academy.
 - 🔭 Tenho interesse em atuar como Desenvolvedora Web back-end.
+- 🎨 Crocheteira amadora.
 - 🎸  Potencial baixista.
   
 ## FERRAMENTAS E TECNOLOGIAS
