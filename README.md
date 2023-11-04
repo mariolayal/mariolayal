@@ -2,19 +2,25 @@
 
 ![hi-hello](https://github.com/mariolayal/mariolayal/assets/138263344/dc58c479-597b-4f28-b087-46cfdfac3464)
 
-Sou bióloga, educadora popular e fluente em Libras.
+Sou bióloga, educadora popular, fluente em Libras e desenvolvedora de software com foco em Backend 
 
-Iniciando minha jornada como aluna de Desenvolvimento de Software- Foco em Backend da Cubos Academy.
+
 
 - 👩‍🏫 Atualmente trabalho como professora de Ciências e Biologia do ensino fundamental 2 e médio, além de coordenar o Pré-vestibular Social Dr. Luiz Gama, iniciativa do Coletivo Direito Popular, movimento social de Niterói.
-- 📖 Estou iniciando minha jornada como aluna de Desenvolvimento de Software- Foco em Backend da Cubos Academy.
-- 🔭 Tenho interesse em atuar como Desenvolvedora Web back-end.
+- 📖 Formada pela Cubos Academy onde aprendi a desenvolver API's com Javascript, Express, Node.js, SQL e Git. 
+- 🔭 Em busca da minha primeira oportunidade como Desenvolvedora Web back-end.
 - 🎨 Crocheteira amadora.
 - 🎸  Potencial baixista.
   
 ## FERRAMENTAS E TECNOLOGIAS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
+          
+          
+## ESTOU APRENDENDO
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+          
           
 
 ## CONTATOS
